@@ -74,7 +74,7 @@
 * **نمط التعبئة (Infill Pattern):** Honeycomb (خلية النحل)
 * **نسبة التعبئة (Infill Density):** 30%
 
-[صورة لإعدادات ووزن الشاسيه من AnkerMake Studio هنا]
+![صورة لإعدادات ووزن الشاسيه من AnkerMake Studio](ankermake.png)
 
 ---
 
